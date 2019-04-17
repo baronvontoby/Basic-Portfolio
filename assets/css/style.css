@@ -18,7 +18,7 @@
 .dead {
     padding: 20px 10px;
     float: left;
-    width: 17.5%;
+    width: 17%;
 }
 
 header {
@@ -87,4 +87,34 @@ body {
     content: "";
     clear: both;
     display: block;
+}
+
+#crickett {
+    padding: 15px 15px;
+    width: 300px;
+    height: 200px;
+}
+
+#karatekid {
+    padding: 15px 15px;
+    width: 300px;
+    height: 200px;
+}
+
+#strike {
+    padding: 15px 15px;
+    width: 300px;
+    height: 200px;
+}
+
+#sushi {
+    padding: 15px 15px;
+    width: 300px;
+    height: 200px;
+}
+
+#weird {
+    padding: 15px 15px;
+    width: 300px;
+    height: 200px;
 }
