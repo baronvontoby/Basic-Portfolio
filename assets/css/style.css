@@ -27,6 +27,8 @@ header {
     background-color:#ffffff;
     width: 100%;
     margin-bottom: 30px;
+    position: relative;
+    top: 0;
 }
 
 footer {
@@ -36,6 +38,7 @@ footer {
     overflow: hidden;
     margin-top: 60px;
     padding: 20px 10px;
+    width: 100%;
 }
 
 .start {
@@ -61,7 +64,7 @@ a {
 }
 
 .message {
-    padding: 12px 20px 200px;
+    padding: 12px 20px 300px;
     margin: 6px;
     width: 90.5%;
 }
@@ -84,8 +87,7 @@ body {
     box-shadow: 1px 1px 1px 1px #dddddd;
     margin: auto;
     width: 960px;
-    background-color: #ffffff
-    
+    background-color: #ffffff   
 }
 
 .me {
@@ -127,4 +129,8 @@ body {
     padding: 15px 15px;
     width: 300px;
     height: 200px;
+}
+
+.port {
+    position: relative;
 }
