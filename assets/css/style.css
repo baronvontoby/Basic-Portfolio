@@ -12,13 +12,13 @@
     float: right;
     color: teal;
     padding: 20px 10px;
-    width: 34%;
+    width: 33%;
 }
 
 .dead {
     padding: 20px 10px;
     float: left;
-    width: 17%;
+    width: 16.65%;
 }
 
 header {
@@ -89,6 +89,7 @@ body {
     }
 
 .mainContent {
+    padding: 5px 5px;
     box-shadow: 1px 1px 1px 1px #dddddd;
     margin: auto;
     width: 960px;
